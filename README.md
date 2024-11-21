@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/3a11e75c-152d-4d5d-ada0-8baac78eb183)
+![image](https://github.com/user-attachments/assets/1efdf5ed-4398-4273-8fb0-f53c5397df08)
 
 ### Name: SAI VISHAL D
 ### Register Number: 212223230180
